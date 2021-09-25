@@ -17,7 +17,7 @@ Refactoring code to be easier to read and making accessible.
 
 ## Link
 
-<img href=".assets/images/ScreenshotOfHoriseonWebpag.png">
+![screenshot](https://github.com/SKYRIMpro1/Horiseon-Refactor/tree/main/assets/images)
 
 ## Screenshot
 
