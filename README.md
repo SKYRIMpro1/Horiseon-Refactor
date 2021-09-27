@@ -15,9 +15,10 @@ Refactoring code to be easier to read and making accessible.
 * Added comments for easier understanding.
 * Added Alt attributes to images for Accessibility.
 
-## Link
-
-![screenshot](https://github.com/SKYRIMpro1/Horiseon-Refactor/tree/main/assets/images)
-
 ## Screenshot
 
+![screenshot](https://github.com/SKYRIMpro1/Horiseon-Refactor/blob/main/assets/images/ScreenshotOfHoriseonWebpag.png)
+
+## Link
+
+* 
